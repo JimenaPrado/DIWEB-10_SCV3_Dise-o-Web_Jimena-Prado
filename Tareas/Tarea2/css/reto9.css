@@ -1,0 +1,19 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.carousel-inner{
+ height: 400px;
+}
+
+.titulo {
+    font-weight: bold;
+}
+
+header {
+    background-color: #f7eee4;
+  }
+  
+  footer {
+    background-color: rgb(247, 238, 228);
+  }

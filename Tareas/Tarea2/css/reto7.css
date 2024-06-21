@@ -1,0 +1,21 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: #f7eee4;
+}
+
+footer {
+    background-color: rgb(247, 238, 228);
+}
+
+
+.titulo {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 20px;
+}

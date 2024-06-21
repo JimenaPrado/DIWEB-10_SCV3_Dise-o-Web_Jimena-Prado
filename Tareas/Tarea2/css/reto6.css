@@ -1,0 +1,16 @@
+body {
+    background-image: url(../images/fondo_reto6.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: rgba(0, 0, 0, 0.212);
+    background-blend-mode: multiply;
+    box-shadow: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container-fluid {
+    height: 100vh;
+    padding-top: 210px;
+    padding-bottom: 200px;
+}

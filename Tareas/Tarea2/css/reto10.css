@@ -1,0 +1,38 @@
+body {
+    background-image: url(../images/fondo_reto7.jpg);
+    background-repeat: repeat;
+    background-size: contain;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+section {
+    background-color: rgba(255, 250, 219, 0.8)
+}
+
+.titulo {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+.contenido1 {
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.articulo1 {
+    margin-bottom: 50px;
+}
+
+header {
+    background-color: #f7eee4;
+}
+
+footer {
+    background-color: rgb(247, 238, 228);
+}

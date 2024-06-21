@@ -1,0 +1,22 @@
+* {
+    margin-top: 0;
+    background-color: #151616;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.icono1 {
+    font-size: 50px;
+}
+
+.icono1 i {
+    font-size: 70px;
+}
+
+.icono2 i {
+    font-size: 30px;
+}
+
+
+.info {
+    font-size: 25px;
+}
