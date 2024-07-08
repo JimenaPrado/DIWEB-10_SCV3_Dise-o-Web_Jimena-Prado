@@ -1,0 +1,97 @@
+body {
+    background: rgb(1,54,85);
+    background: linear-gradient(180deg, rgba(1,54,85,1) 0%, rgba(1,45,71,1) 15%, rgba(1,24,38,1) 37%, rgba(0,0,0,1) 100%);
+}
+
+header{
+	width: 100%;
+    height: 100vh;
+}
+
+header i {
+    font-size: 70px;
+}
+
+.banner p {
+    font-size: 25px;
+}
+
+
+.sec1{
+    color: white; 
+}
+
+.sec2 {
+    color: white;
+}
+
+.sec3 {
+    background-image: url(../imagenes/coral.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 300px;
+}
+
+.sec3 h2 {
+    color: white;
+}
+
+.sec4 {
+    color: white;
+}
+
+form {
+    background-color: rgba(245, 245, 245, 0.8);
+    border-radius: 10px;
+}
+
+form input {
+    border-radius: 3px;
+    height: 38px;
+    border: 0;
+    margin: 0;
+}
+
+form button {
+    margin: 0;
+}
+
+audio {
+    width: 300px;
+    height: 25px;
+}
+
+.logo1  {
+    transition: transform .1s; 
+}
+
+.logo2  {
+    transition: transform .1s; 
+}
+
+.logo3  {
+    transition: transform .1s; 
+}
+
+.logo1 :hover{
+    transform: scale(1.2);
+}
+
+.logo2 :hover {
+    transform: scale(1.2);  
+}
+
+.logo3 :hover {
+    transform: scale(1.2);
+}
+
+.goto-top {
+    font-size: 100px;
+    position: fixed;
+    bottom: 100px;
+    right: 50px;
+    width: 75px;
+    height: 50px;
+}
